@@ -1,0 +1,9 @@
+{
+  "name": "beattoken",
+  "description": "BEAT token",
+  "version": "0.1.0",
+  "dependencies": {
+	"zeppelin-solidity": "^1.4.0"
+},
+  "devDependencies": {}
+}
