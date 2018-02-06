@@ -1,6 +1,6 @@
 # BEAT Token
 
-[BEAT - The Crypto Currency for the World of Sports](https://beat.sportalliance.com/)
+[BEAT: Do Sports - Earn Money](https://beat.sportalliance.com/)
 
 ## ABIs
 
