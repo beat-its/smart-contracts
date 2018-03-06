@@ -1,6 +1,6 @@
 # BEAT Token
 
-[BEAT: Do Sports - Get Sponsored.](https://beat.sportalliance.com/)
+[BEAT: Do Sports - Get Sponsored.](https://beat.org/)
 
 ## ABIs
 
